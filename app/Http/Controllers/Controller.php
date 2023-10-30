@@ -12,6 +12,7 @@ class Controller extends BaseController
 
     public function view()
     {
-        
+        $value = '12345';
+        return $value; 
     }
 }
